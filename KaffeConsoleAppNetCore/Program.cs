@@ -32,7 +32,9 @@ namespace KaffeConsoleAppNetCore
                     Cortado c = item as Cortado;
                 }
             }
-           
+
+            var ICortardo = cortado as Imælk;
+            Console.ReadLine();
 
         }
     }
